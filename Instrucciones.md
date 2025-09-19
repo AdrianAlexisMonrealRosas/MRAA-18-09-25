@@ -75,4 +75,5 @@ colabores).
 • README.md: Un archivo que describe tu proyecto, qué hace y cómo usarlo. Se usa Markdown 
 para darle formato. 
 • .gitignore: Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear 
-(ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
+
+(ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio limpio.
